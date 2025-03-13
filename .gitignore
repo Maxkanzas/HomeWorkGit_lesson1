@@ -33,3 +33,4 @@ bin/
 /nbbuild/
 /dist/
 /nbdist/
+/.nb-gradle/
